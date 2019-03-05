@@ -28,12 +28,45 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/assets/images/bulb-2287759_640.jpg": {
+		"ft": 16384,
+		"iS": 63200,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/assets/images/bulb-2287759_640.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/assets/images/guy-2608550_640.jpg": {
 		"ft": 16384,
 		"iS": 50084,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/assets/images/guy-2608550_640.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/assets/images/lamp-2663053_640.jpg": {
+		"ft": 16384,
+		"iS": 23918,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/assets/images/lamp-2663053_640.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/assets/images/lamp-3489395_640.jpg": {
+		"ft": 16384,
+		"iS": 48075,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/assets/images/lamp-3489395_640.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -61,6 +94,17 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/assets/images/pinwheel-50512_640.jpg": {
+		"ft": 16384,
+		"iS": 27258,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/assets/images/pinwheel-50512_640.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/assets/images/summer-336664_640.jpg": {
 		"ft": 16384,
 		"iS": 122548,
@@ -72,12 +116,34 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/assets/images/thunderstorm-3625405_640.jpg": {
+		"ft": 16384,
+		"iS": 43422,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/assets/images/thunderstorm-3625405_640.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/assets/images/wind-farm-1209335_1920.jpg": {
 		"ft": 16384,
 		"iS": 489475,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/assets/images/wind-farm-1209335_1920.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/assets/images/windrader-2991696_640.jpg": {
+		"ft": 16384,
+		"iS": 32211,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/assets/images/windrader-2991696_640.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
